@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#container{
+    width: 100%;
+    display:flex;
+    justify-content:center;
+    flex-direction:column ;
+    height:100vh;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1444' height='560' preserveAspectRatio='none' viewBox='0 0 1444 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask2803%26quot%3b)' fill='none'%3e%3crect width='1444' height='560' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient2804%26quot%3b)'%3e%3c/rect%3e%3cg transform='translate(-101.08%2c 173.6)' stroke-linecap='round' stroke='url(%26quot%3b%23SvgjsLinearGradient2805%26quot%3b)'%3e%3cpath d='M535 224.51 L535 335.49' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M546 254.18 L546 305.82' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M557 213.28 L557 346.72' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M568 215.21 L568 344.79' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M579 261.87 L579 298.13' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M590 214.46 L590 345.54' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M601 251.78 L601 308.21' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M612 271.56 L612 288.44' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M623 266.69 L623 293.31' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M634 229.81 L634 330.19' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M645 238.81 L645 321.19' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M656 233.84 L656 326.16' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M667 269.5 L667 290.5' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M678 210.19 L678 349.81' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M689 260.99 L689 299.01' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M700 214.83 L700 345.17' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M711 258.46 L711 301.54' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M722 256.74 L722 303.26' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M733 218.82 L733 341.18' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M744 261.91 L744 298.09' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M755 222.34 L755 337.66' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M766 268.9 L766 291.1' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M777 236.63 L777 323.38' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M788 249.24 L788 310.76' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M799 215.54 L799 344.46' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M810 229.57 L810 330.43' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M821 229.51 L821 330.49' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M832 240.56 L832 319.44' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M843 222.4 L843 337.6' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M854 233.35 L854 326.64' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M865 256.92 L865 303.08' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M876 255.38 L876 304.62' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M887 216.43 L887 343.57' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M898 271.91 L898 288.09' stroke-width='8.25'%3e%3c/path%3e%3cpath d='M909 233.23 L909 326.77' stroke-width='8.25'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask2803'%3e%3crect width='1444' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.3%25' y1='-39.46%25' x2='84.7%25' y2='139.46%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient2804'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(123%2c 0%2c 158%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='527.06' y1='280' x2='916.9399999999999' y2='280' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient2805'%3e%3cstop stop-color='%233a7cc3' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(221%2c 17%2c 188%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+    background-size: cover;
+
+}
+h1{
+    font-size:30px;
+    text-align: center;
+    color:white;
+    text-shadow: 3px 4px 10px rgb(106, 54, 143);
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+textarea{
+    margin:30px;
+    height:100px;
+    border-radius: 10px;
+    border:none;
+    left:100px;
+    box-shadow:5px 6px 5px rgb(106, 54, 143);
+    border-radius: 10px;
+    border:0;
+    outline:0;
+}
+button{
+    background-color:white;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    margin:20px;
+    height:30px;
+    width:500px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow:5px 6px 5px  rgb(106, 54, 143);
+    margin-left: 500px;
+}
+button:hover{
+    color:white;
+    background-color:black;
+}
